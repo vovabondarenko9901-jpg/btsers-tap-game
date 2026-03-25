@@ -1,1 +1,0 @@
-# btsers-tap-game
